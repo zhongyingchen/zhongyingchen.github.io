@@ -10,7 +10,7 @@ nav: true
 nav_order: 1
 ---
 
-<span style="position:relative; top:0.7em; right:0em; font-size:1em; color:rgba(128,128,128,0.8)">Optimization, Neural Networks, Computational Intelligence, and Energy Systems (At CityU)</span>
+<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(128,128,128,1)">Optimization, Neural Networks, Computational Intelligence, and Energy Systems (At CityU)</span>
 <hr style="border-top: 2px solid rgba(128, 128, 128, 0.5);">
 
 <div class="row justify-content-sm-center">
@@ -18,7 +18,7 @@ nav_order: 1
     {% include figure.html path="assets/img/smartgrid.jpg" title="example image" class="img-fluid" %}
   </div>
 </div>
- My Ph.D. research at CityU focuses on developing **collaborative neurodynamic optimization(CNO)** approaches to efficiently operate the systems in **smart grids**.  The systems of interest include **power generation systems** and **building energy systems**, as highlighted in the above figure. 
+ My Ph.D. research at CityU focuses on developing **collaborative neurodynamic optimization (CNO)** approaches to efficiently operate the systems in **smart grids**.  The systems of interest include **power generation systems** and **building energy systems**, as highlighted in the above figure. 
  
  
 I work with [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (advisor) and [Prof. Qing-Long Han](https://scholar.google.com.au/citations?user=j0pyptAAAAAJ&hl=en) to develop some CNO-driven algorithms for addressing the following three issues: 
@@ -46,7 +46,7 @@ I work with [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6
 
 
 
-<span style="position:relative; top:0.7em; right:0em; font-size:1em; color:rgba(128,128,128,0.5)">Thermo-physics (Before CityU)</span>
+<span style="position:relative; top:0.7em; right:0em; font-size:1.2em; color:rgba(128,128,128,1)">Thermo-physics (Before CityU)</span>
 <hr style="border-top: 1.5px solid rgba(128, 128, 128, 0.5);">
 
 The following lists some papers and a patent done *before* going to CityU: 

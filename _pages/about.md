@@ -25,9 +25,9 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Ph.D. candidate in Computer Science at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (*IEEE Life Fellow, IAPR Fellow, Member of Academia Europaea*). I obtained my M.Sc. in mechanical engineering from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)  in 2018 and a B.E. degree in energy engineering from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) in 2017. I was a Ph.D. student in mechanical engineering at [HKUST](https://hkust.edu.hk/) during 2018.09-2020.08 before transferring to the [department of computer science](https://www.cs.cityu.edu.hk/about-us/department) at [CityU](https://www.cityu.edu.hk/). 
 
-I work on optimization algorithms, neural networks, computational intelligence techniques, and their applications in energy systems (e.g., electrical power generation and building energy systems). My Ph.D. research at CityU focuses on developing collaborative neurodynamic optimization approaches to operate the systems eciently. It includes three issues: (i) *planning via mixed-integer/global optimization*, (ii) *planning in a distributed way via nonconvex distributed optimization*, and (iii) *control using a neurodynamics-driven approach*. 
+I work on optimization algorithms, neural networks, computational intelligence techniques, and their applications in energy systems (e.g., electrical power generation and building energy systems). My Ph.D. research at CityU focuses on developing collaborative neurodynamic optimization approaches to operate the systems efficiently. It includes three issues: (i) *planning via mixed-integer/global optimization*, (ii) *planning in a distributed way via nonconvex distributed optimization*, and (iii) *control using a neurodynamics-driven approach*. 
 
-Recently, I am quite interested in the intersection of machine learning and optimization methods.
+Recently, I am quite interested in the intersection of machine learning and optimization algorithms.
 
 ***I will graduate in 2023 summer and am currently on the job market.**
 
