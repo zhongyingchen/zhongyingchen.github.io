@@ -29,9 +29,9 @@ I work on optimization algorithms, neural networks, computational intelligence t
 
 Recently, I am quite interested in the intersection of machine learning and optimization algorithms.
 
-***I will graduate in 2023 summer and am currently on the job market.**
+<!-- **I will graduate in 2023 summer and am currently on the job market.** -->
 
-
+<strong><font color="red">*I will graduate in 2023 summer and am currently on the job market.</font></strong>
 
 <!-- // Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
