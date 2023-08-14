@@ -2,7 +2,7 @@
 layout: page
 permalink: /Awards/
 title: Awards
-description: The following are some of the awards I have received
+description: The following lists some of the awards 
 nav: true
 nav_order: 2
 ---
