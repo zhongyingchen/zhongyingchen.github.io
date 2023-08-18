@@ -37,7 +37,7 @@ I work with [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6
 
 *  **Zhongying Chen**, Jun Wang, and Qing-Long Han. A collaborative neurodynamic optimization approach to distributed chiller loading. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, pages 1-11, 2023
 *  **Zhongying Chen**, Jun Wang, and Qing-Long Han. Receding-horizon chiller operation planning via collaborative neurodynamic optimization. *IEEE Transactions on Smart Grid (TSG)*, 2023, in press
-*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. Distributed chiller loading via collaborative neurodynamic optimization with heterogeneous neural networks. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, under review
+*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. Distributed chiller loading via collaborative neurodynamic optimization with heterogeneous neural networks. *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS)*, minor revision
 
 
 
