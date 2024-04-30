@@ -10,9 +10,14 @@ nav_order: 3
 <span style="position:relative; top:0.7em; right:0em; font-size:1.7em; color:rgba(128,128,128,0.5)">Academic service</span>
 <hr style="border-top: 1px solid rgba(128, 128, 128, 0.5);">
 
-I am a reviewer for the journals: 
+I am a reviewer for the follwoing journals: 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Automation Science and Engineering (TASE)
+* IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS)
+* Neural Networks
+* IEEE Transactions on Intelligent Vehicles
+* Tsinghua Science and Technology
+
 
 Since Aug. 2020, I have maintained the pages of the following conferences and provide conference-related services:
 - The 12th International Conference on Advanced Computational Intelligence (ICACI), 2020 [(link)](https://conference.cs.cityu.edu.hk/icaci/)
@@ -25,7 +30,7 @@ Since Aug. 2020, I have maintained the pages of the following conferences and pr
 
 <span style="position:relative; top:0.7em; right:0em; font-size:1.7em; color:rgba(128,128,128,0.5)">Teaching experience</span>
 <hr style="border-top: 1px solid rgba(128, 128, 128, 0.5);">
-I have previously been a teaching assistant for the following courses: 
+I was a teaching assistant for the following courses: 
 
 
 * CS1102 Introduction to Comp Studies, CityU, 2020/21 Semester A, B

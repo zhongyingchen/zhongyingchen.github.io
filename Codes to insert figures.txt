@@ -1,0 +1,16 @@
+****************************************************************************
+Below is the code used for insert an image in the research introduction page 
+****************************************************************************
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-0 mt-md-0">
+    {% include figure.html path="assets/img/smartgrid.jpg" title="example image" class="img-fluid" %}
+  </div>
+</div>
+
+
+
+
+
+
+

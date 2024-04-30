@@ -7,10 +7,10 @@ subtitle:
 
 profile:
   align: right
-  image: school_Log.jpg
-  image_circular: false # crops the image to make it circular
+  image: ZYChen_Fig.jpg
+  image_circular: True # crops the image to make it circular
   address: >
-         <p></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp; Hong Kong, 2024 </p>
 
  
 
@@ -19,19 +19,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
   
+I am an Associate Professor in the [School of Computer Science and Engineering](https://cse.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China.
 
 
 
+I received a B.E. degree in energy engineering from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) in 2017 and an M.Sc. degree in mechanical engineering from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)  in 2018. <br>
+I was a Ph.D. student in mechanical engineering at HKUST during 2018--2020. I went to [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/) in 2020  and received a Ph.D degree in Computer Science from CityU in 2023, where I was so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (Member of Academia Europaea, IEEE Life Fellow, IAPR Fellow, Dean of the School of Data Science). I joined [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2024.
 
-I'm a Ph.D. candidate in Computer Science at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (*IEEE Life Fellow, IAPR Fellow, Member of Academia Europaea*). I obtained my M.Sc. in mechanical engineering from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)  in 2018 and a B.E. degree in energy engineering from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/) in 2017. I was a Ph.D. student in mechanical engineering at [HKUST](https://hkust.edu.hk/) during 2018.09-2020.08 before transferring to the [department of computer science](https://www.cs.cityu.edu.hk/about-us/department) at [CityU](https://www.cityu.edu.hk/). 
 
-I work on optimization algorithms, neural networks, computational intelligence techniques, and their applications in energy systems (e.g., electrical power generation and building energy systems). My Ph.D. research at CityU focuses on developing collaborative neurodynamic optimization approaches to operate the systems efficiently. It includes three issues: (i) *planning via mixed-integer/global optimization*, (ii) *planning in a distributed way via nonconvex distributed optimization*, and (iii) *control using a neurodynamics-driven approach*. 
+My research interests include optimization methods, neural networks, computational intelligence, and smart energy systems.  
 
-Recently, I am quite interested in the intersection of machine learning and optimization algorithms.
+<font color="red">We are looking for postgraduate and undergraduate students to join our group at Southeast University. Please email me the CV and transcript if you are interested. </font>
+
+<hr>
+[<font color="brown"> Hongzong Li </font>](https://hongzongli-cs.github.io/) <font color="black">is my group mate at CityU. He will graduate in 2024 and is currently in the job market. Feel free to contact him if you are interested in his profile. </font>
+<hr>
 
 <!-- **I will graduate in 2023 summer and am currently on the job market.** -->
 
-<strong><font color="red">*I will graduate in 2023 summer and am currently on the job market.</font></strong>
+<!--<strong><font color="red">*I will graduate in 2023 summer and am currently on the job market.</font></strong>-->
 
 <!-- // Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

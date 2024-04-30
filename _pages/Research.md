@@ -9,41 +9,38 @@ description:
 nav: true
 nav_order: 1
 ---
-
-<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(128,128,128,1)">Optimization, Neural Networks, Computational Intelligence, and Energy Systems (At CityU)</span>
+<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(128,128,128,1)">For more publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=zR6vzDsAAAAJ&hl=en&oi=ao) </span>
 <hr style="border-top: 2px solid rgba(128, 128, 128, 0.5);">
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-10 mt-0 mt-md-0">
-    {% include figure.html path="assets/img/smartgrid.jpg" title="example image" class="img-fluid" %}
-  </div>
-</div>
- My Ph.D. research at CityU focuses on developing collaborative neurodynamic optimization (CNO) approaches to efficiently operate the systems in smart grids.  The systems of interest include power generation systems and building energy systems, as highlighted in the above figure. 
- 
- 
-I work with [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (advisor) and [Prof. Qing-Long Han](https://scholar.google.com.au/citations?user=j0pyptAAAAAJ&hl=en) to develop some CNO-driven algorithms for addressing the following three issues: 
 
 
-<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(46,143,137,1)">Planning: How can system operation be planned via mixed-integer/global optimization?</span>
-<!-- <hr style="border-top: 1.5px dashed rgba(46,143,137, 0.3) ;">  -->
 
-* **Zhongying Chen**, Jun Wang, and Qing-Long Han. Event-triggered cardinality-constrained cooling and electrical load dispatch based on collaborative neurodynamic optimization. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, pages 1-12, 2022
-* **Zhongying Chen**, Jun Wang, and Qing-Long Han. Optimal chiller loading based on collaborative neurodynamic optimization. *IEEE Transactions on Industrial Informatics (TII)*, 19(3):3057-3067, 2023
-* **Zhongying Chen**, Jun Wang, and Qing-Long Han. Chiller plant operation planning via collaborative neurodynamic optimization. *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS)*, 53(8):4623-4635, 2023
+**Mehotds:**  Optimization, Neural Networks, Computational Intelligence <br>
+**Applications:**  Smart Energy Systems such as power systems, building energy systems, energy storage systems, data center, etc. 
 
 
-<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(46,143,137,1)">Distributed planning: How can system operation be planned in a distributed way via nonconvex distributed optimization?</span>
+
+<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(46,143,137,1)">Operation Planning: </span>
+<!--<hr style="border-top: 1.5px dashed rgba(46,143,137, 0.3) ;">  -->
+
+* **Zhongying Chen**, Jun Wang, and Qing-Long Han. "Event-triggered cardinality-constrained cooling and electrical load dispatch based on collaborative neurodynamic optimization". *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 34(9):5464–5475, 2023
+* **Zhongying Chen**, Jun Wang, and Qing-Long Han. "Optimal chiller loading based on collaborative neurodynamic optimization". *IEEE Transactions on Industrial Informatics (TII)*, 19(3):3057-3067, 2023
+* **Zhongying Chen**, Jun Wang, and Qing-Long Han. "Chiller plant operation planning via collaborative neurodynamic optimization". *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS)*, 53(8):4623-4635, 2023
+
+
+<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(46,143,137,1)">Distributed operation planning: </span>
 <!-- <hr style="border-top: 1.5px dashed rgba(46,143,137, 0.3) ;"> -->
 
-*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. A collaborative neurodynamic optimization approach to distributed chiller loading. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, pages 1-11, 2023
-*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. Receding-horizon chiller operation planning via collaborative neurodynamic optimization. *IEEE Transactions on Smart Grid (TSG)*, 2023, in press
-*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. Distributed chiller loading via collaborative neurodynamic optimization with heterogeneous neural networks. *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS)*, minor revision
+*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. "A collaborative neurodynamic optimization approach to distributed chiller loading". *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, in press, 2023
+*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. "Receding-horizon chiller operation planning via collaborative neurodynamic optimization". *IEEE Transactions on Smart Grid (TSG)*,in press, 2023
+*  **Zhongying Chen**, Jun Wang, and Qing-Long Han. "Distributed chiller loading via collaborative neurodynamic optimization with heterogeneous neural networks". *IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS)*, in press, 2023
 
 
 
-<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(46,143,137,1)">Control: How can system be controlled using a neurodynamics-driven approach?</span>
+<span style="position:relative; top:0.7em; right:0em; font-size:1.1em; color:rgba(46,143,137,1)">Operation control:</span>
 <!-- <hr style="border-top: 1.5px dashed rgba(46,143,137, 0.3) ;"> -->
-* **Zhongying Chen**, Jun Wang, and Qing-Long Han. Neurodynamics-driven model predictive control of chiller plants. submitted to a Transactions journal, under review
+* **Zhongying Chen**, Jun Wang, and Qing-Long Han.“Hybrid Model Predictive Control of Chiller Systems via Collaborative Neurodynamic Optimization”, *IEEE Transactions on Industrial Informatics (TII)*, in press, 2024
+
 
 
 <span style="position:relative; top:0.7em; right:0em; font-size:1.2em; color:rgba(128,128,128,1)">Thermo-physics (Before CityU)</span>
